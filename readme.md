@@ -3,7 +3,7 @@ Hello there!
 
 [Personal](https://github.com/re0nyaa/) [School](https://github.com/MinjaeRyu/)
 
-[Portfolio](https://renyaa.com/)
+[Portfolio](https://ryuminjae.xyz)
 
 [![](https://profile.renyaa.com/discord/1279909054193602632)](https://discord.com/users/1279909054193602632)
 
