@@ -5,7 +5,7 @@ Hello there!
 
 [Portfolio](https://ryuminjae.xyz)
 
-[![](https://profile.renyaa.com/discord/1279909054193602632)](https://discord.com/users/1279909054193602632)
+[![](https://profile.renyaa.com/discord/1279909054193602632?bannercolor=FF0000)](https://discord.com/users/1279909054193602632)
 
 [![](https://profile.renyaa.com/counter/rmj0091)](https://profile.renyaa.com/counter)
 * 위젯이 마음에 드시나요 [여기](https://profile.renyaa.com/)를 눌러 확인 해보세요!
